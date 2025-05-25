@@ -12,6 +12,11 @@ Hi there! My name is Hannah Hutchins, and I'm currently pursuing an M.S. in Heal
 
 ✍️ Outside of the laboratory, I’m also a **freelance journalist** and **assistant editor** at *Minding the Campus* and am growing a writing portfolio in both journalism and sci-fi flash fiction.
 
+## 📖 Academic Publications
+
+- [Glyphosate Exposure Associated with Human Neurodegenerative Disorders: A Scoping Review (2024)](publications/glyphosate1-summary.md)
+
+
 <!--
 **HHneurolab/HHneurolab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
