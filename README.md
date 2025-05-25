@@ -14,7 +14,6 @@ Hi there! My name is Hannah Hutchins, and I'm currently pursuing an M.S. in Heal
 
 ## 📖 Academic Publications
 
-- [Glyphosate Exposure Associated with Human Neurodegenerative Disorders: A Scoping Review (2024)](publications/glyphosate1-summary.md)
 
 
 <!--
