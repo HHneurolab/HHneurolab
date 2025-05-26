@@ -12,7 +12,10 @@ Hi there! My name is Hannah Hutchins, and I'm currently pursuing an M.S. in Heal
 
 ✍️ Outside of the laboratory, I’m also a **freelance journalist** and **assistant editor** at *Minding the Campus* and am growing a writing portfolio in both journalism and sci-fi flash fiction.
 
+## 📚 Academic Publications
 
+[ Glyphosate Exposure Associated with Human Neurodegenerative Disorders: A Scoping Review (2024)](publications/glyphosate-summary.md)  
+*First-author literature review on glyphosate’s effect on the formation of neurological disorders; published in the Journal of Behavioral and Brain Science.*
 
 
 <!--
