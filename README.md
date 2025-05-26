@@ -14,8 +14,15 @@ Hi there! My name is Hannah Hutchins, and I'm currently pursuing an M.S. in Heal
 
 ## 📚 Academic Publications
 
-- [Glyphosate Exposure Associated with Human Neurodegenerative Disorders: A Scoping Review (2024)](https://github.com/HHneurolab/scientific-portfolio/blob/main/publications/glyphosate-summary.md)
+[Glyphosate Exposure Associated with Human Neurodegenerative Disorders: A Scoping Review (2024)](https://github.com/HHneurolab/scientific-portfolio/blob/main/publications/glyphosate-summary.md)
+
 *First-author literature review on glyphosate’s effect on the formation of neurological disorders; published in the Journal of Behavioral and Brain Science.*
+
+## 📑 Other Research Contributions
+
+[C. Elegans Laboratory Manual](https://github.com/HHneurolab/scientific-portfolio/blob/main/lab-work/lab-manual-summary.md)
+
+*Wrote a laboratory manual for C. elegans research at Palm Beach Atlantic University as the first researcher to use this model organism at my university.*
 
 
 <!--
